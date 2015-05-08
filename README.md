@@ -1,3 +1,5 @@
+NOTE: Balanced Payments is going away, so it's not recommended for anyone to use this.  Keeping for historical reference only.
+
 Balanced Payments API
 =====================
 
